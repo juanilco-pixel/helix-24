@@ -12,4 +12,6 @@ I feel like I might be missing something obvious, or maybe I just stumbled onto 
 
 ### How to test
 Just run the basic orchestrator to see the state routing in action:
-`python orchestrator.py`
+`### Latest Update: Object Tracking (VLM Simulation)
+Now includes `tracker.py` which demonstrates how to use the 24-bit loop for real-time object tracking, ready to be paired with `MLX-VLM`.
+Run it: `python tracker.py`ython orchestrator.py`
